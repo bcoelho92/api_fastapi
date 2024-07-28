@@ -1,7 +1,13 @@
 # api_fastapi
 
-Rum - fastapi dev test.py
+Rum: 
+fastapi dev test.py
 
+Interactive API docs:
+http://127.0.0.1:8000/docs
+
+Alternative API docs:
+http://127.0.0.1:8000/redoc
 
 
 ## Referencia:

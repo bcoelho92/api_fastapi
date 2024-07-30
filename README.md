@@ -12,6 +12,8 @@ http://127.0.0.1:8000/redoc
 
 ## Referencia:
 
+* https://www.w3schools.com/python/python_sets.asp
+
 * https://youtube.com/watch?v=XN12auMkKtc&list=PLJHVw_wMqnI-eX95g9U_W941l_yWsIDIL&index=2
 
 * https://fastapi.tiangolo.com/
